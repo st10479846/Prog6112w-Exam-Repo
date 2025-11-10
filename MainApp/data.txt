@@ -1,0 +1,9 @@
+Sales Data:
+
+Year 1: 300 150 700 
+Year 2: 250 200 600 
+
+Total Sales: 2200
+Average Sales: 366.6666666666667
+Sales Over Limit: 2
+Sales Under Limit: 4
